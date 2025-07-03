@@ -1,0 +1,5 @@
+OrderID,CustomerID,Product,Quantity,UnitPrice,OrderDate,Country,TotalPrice,Month
+1022,105.0,Desk Lamp,5.0,9999.99,2024-03-03,USA,49999.95,2024-03
+1052,,Keyboard,1.0,49.99,2024-03-03,USA,49.99,2024-03
+1064,101.0,Monitor,1.0,19.99,2024-03-03,,19.99,2024-03
+1080,104.0,Keyboard,2.0,49.99,2024-03-03,USA,99.98,2024-03
